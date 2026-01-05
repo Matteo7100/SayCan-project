@@ -13,7 +13,7 @@ SayCan solves the problem of connecting the vast knowledge of Large Language Mod
 
 ##  Features
 
-* **LLM Integration**: Interface for Large Language Models (e.g., GPT-3, GPT-4, or open-source equivalents) to interpret instructions.
+* **LLM Integration**: Interface for Large Language Models to interpret instructions.
 * **Affordance Scoring**: Modules to estimate the success probability of robotic skills (Pick, Place, Navigate).
 * **Task Planning**: Algorithms to sequence skills for long-horizon tasks.
 * **Simulation/Real-World Support**: Support for PyBullet simulation.
